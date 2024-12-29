@@ -10,7 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AntonioCesar001&bg_color=000000&color=ff0000&line=800080&point=FFD700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/antonio-cesar-/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-8e0102?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/antonio-cesar-/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-670506?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
  
 ### Main skills:
@@ -55,11 +55,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117)&nbsp;
 ![Fastify](https://img.shields.io/badge/-Fastify-0D1117?style=for-the-badge&logo=fastify&logoColor=ffffff&labelColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AntonioCesar001}/count.svg" /></p> 
-<br></div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8e0102&height=120&section=footer"/>
